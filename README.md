@@ -1,10 +1,10 @@
 Hello, my name is Ose - short for something longer. 
 
-I am currently learning HTML, CSS, JavaScript, Bootstrap, SQL, Agile Working. Web security.  My WordPress Website is "coming soon". My passion is JavaScript. And I code all day long. 
+I briefly learn HTML, CSS, JavaScript, Bootstrap, SQL, Agile Working. Web security.  
 
-My WordPress Website is a language learning website, geared to the younger learner. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I went on to do a data apprenticeship and have a level 4 in Data Analysis. 
+
+I especially enjoy using Python and MS Excel for my data solutions. I am adept in Tableau for storytelling.  
 
 <!---
 OseAlle/OseAlle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
